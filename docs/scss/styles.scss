@@ -663,6 +663,9 @@ footer {
     padding: 15px;
 
     h3 {
+        text-align: justify;
+        text-justify: inter-word;
+        max-width: 500px;
         font-size: 1.5em;
         font-weight: 300;
         color: $heading;
